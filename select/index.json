@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "base_track": "Bedroom Warfare",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-03-24T18:52:45.931001Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bedroom Warfare",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_Bedroom_Warfare_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bedroom Warfare",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_Bedroom_Warfare_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bedroom Warfare",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_Bedroom_Warfare_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bedroom Warfare",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_Bedroom_Warfare_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chemical Warfare",
+      "artist": "Slayer",
+      "has_synced": true,
+      "path": "select/05_Chemical_Warfare_Slayer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Prediction Of Warfare",
+      "artist": "Amon Amarth",
+      "has_synced": false,
+      "path": "select/06_Prediction_Of_Warfare_Amon_Amarth.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Soul Warfare - 2006 Digital Remaster",
+      "artist": "Heaven 17",
+      "has_synced": false,
+      "path": "select/07_Soul_Warfare_-_2006_Digital_Remaster_Heaven_17.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Soul Warfare (2006 Digital Remaster)",
+      "artist": "Heaven 17",
+      "has_synced": false,
+      "path": "select/08_Soul_Warfare_(2006_Digital_Remaster)_Heaven_17.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Soul Warfare - Original Demo",
+      "artist": "Heaven 17",
+      "has_synced": false,
+      "path": "select/09_Soul_Warfare_-_Original_Demo_Heaven_17.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chemical Warfare",
+      "artist": "Dead Kennedys",
+      "has_synced": true,
+      "path": "select/10_Chemical_Warfare_Dead_Kennedys.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Psychological Warfare",
+      "artist": "Bolt Thrower",
+      "has_synced": true,
+      "path": "select/11_Psychological_Warfare_Bolt_Thrower.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Psychological Warfare",
+      "artist": "Bolt Thrower",
+      "has_synced": false,
+      "path": "select/12_Psychological_Warfare_Bolt_Thrower.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Terms of Psychic Warfare",
+      "artist": "Hüsker Dü",
+      "has_synced": false,
+      "path": "select/13_Terms_of_Psychic_Warfare_Hüsker_Dü.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Internal Warfare",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/14_Internal_Warfare_Epica.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Am Warfare",
+      "artist": "Annihilator",
+      "has_synced": true,
+      "path": "select/15_I_Am_Warfare_Annihilator.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Warfare (Al Sween Remix)",
+      "artist": "Joe Budden",
+      "has_synced": true,
+      "path": "select/16_Warfare_(Al_Sween_Remix)_Joe_Budden.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Warfare (Al Sween Remix) (Feat. Joell Ortiz)",
+      "artist": "Joe Budden",
+      "has_synced": true,
+      "path": "select/17_Warfare_(Al_Sween_Remix)_(Feat._Joell_Ortiz)_Joe_Budden.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Electronic Warfare",
+      "artist": "Apoptygma Berzerk",
+      "has_synced": false,
+      "path": "select/18_Electronic_Warfare_Apoptygma_Berzerk.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Bedroom Warfare",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/localdb_01_Bedroom_Warfare_ONE_OK_ROCK.lrc",
+      "repo_name": "w0N58sv60YM"
+    }
+  ]
+}
