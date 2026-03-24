@@ -1,0 +1,68 @@
+# ONE OK ROCK – Bedroom Warfare
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:03.55] Keep your enemies close
+[00:05.75] Your enemies close
+[00:07.05] Keep your enemies close
+[00:09.25] Your enemies close
+[00:10.78] Keep your enemies close
+[00:12.82] Your enemies close
+[00:14.12] Keep your enemies close
+[00:16.33] Your enemies
+[00:22.33] 
+[00:18.18] I cut you off, but you're still here (yeah, yeah, yeah)
+[00:25.33] You're like a whisper in my ear (yeah, yeah, yeah)
+[00:32.30] You start soft, but you're getting louder
+[00:35.62] Every hour, I feel the power
+[00:39.53] We go hard 'til the morning light
+[00:42.18] We battle nightly
+[00:44.77] Keep your enemies
+[00:53.27] 
+[00:46.55] Bedroom warfare in the middle of the night (night)
+[00:53.59] Out of nowhere, you come back into my life (life)
+[01:00.23] And I know in the morning we'll be
+[01:03.77] Nothing more than each other's enemy
+[01:07.96] Bedroom warfare in the middle of the night
+[01:28.96] 
+[01:15.15] Keep your enemies close
+[01:17.33] Your enemies close
+[01:18.86] Keep your enemies close
+[01:20.85] Your enemies close
+[01:22.20] Keep your enemies close
+[01:24.46] Your enemies close
+[01:25.87] Keep your enemies close
+[01:27.91] Your enemies
+[01:33.91] 
+[01:29.88] It's like I never had a chance (yeah, yeah, yeah)
+[01:36.85] We're doing a dangerous dance (yeah, yeah, yeah)
+[01:43.11] It's not a fair fight when you're already naked
+[01:47.13] Your body language is so persuasive
+[01:51.01] We go hard 'til the morning light
+[01:53.97] We battle nightly
+[01:56.29] Keep your enemies
+[02:04.79] 
+[01:58.29] Bedroom warfare in the middle of the night (night)
+[02:05.29] Out of nowhere, you come back into my life (life)
+[02:11.82] And I know in the morning we'll be
+[02:15.33] Nothing more than each other's enemy
+[02:19.58] Bedroom warfare in the middle of the night
+[02:40.58] 
+[02:26.96] Keep your enemies close
+[02:28.85] Your enemies close
+[02:30.30] Keep your enemies close
+[02:32.59] Your enemies close
+[02:33.92] Keep your enemies close
+[02:36.28] Your enemies close
+[02:37.55] Keep your enemies close
+[02:39.72] Your enemies
+[02:45.72] 
+[02:41.31] I cut you off, but you're still here
+[02:59.31] 
+[02:48.32] Bedroom warfare in the middle of the night (night)
+[02:55.29] Out of nowhere, you come back into my life (life)
+[03:01.97] And I know in the morning we'll be
+[03:05.45] Nothing more than each other's enemy
+[03:09.74] Bedroom warfare in the middle of the night
+```
